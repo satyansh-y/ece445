@@ -1,6 +1,6 @@
 # Satyansh Worklog
 
-This worklog contains the progress of a PCB design project aimed at developing a medical device that records audio and transmits it via Bluetooth to a smartphone application. Below are key milestones and updates:
+This worklog contains the progress of a PCB design project aimed at developing a medical device that records audio and transmits it via Bluetooth to a smartphone application. Below are key milestones and updates::
 
 # 2024-02-05 - Initial Brainstorming and Approval
 
