@@ -1,15 +1,28 @@
-# Satyansh Worklog
+# Aryan Worklog
 
-This worklog contains the progress of a PCB design project aimed at developing a medical device that records audio and transmits it via Bluetooth to a smartphone application. Below are key milestones and updates::
+This worklog contains the progress of a PCB design project aimed at developing a medical device that records audio and transmits it via Bluetooth to a smartphone application. Below are key milestones and updates:
+
+# 2024-01-29 - Meeting with Richard and Eric from Carle College of Medicine
+
+We met with Richard and Eric to discuss the intricacies of their pitched project and clear up any of our doubts regarding the vision for the solution. Afterward, we created and submitted our RFA to the web board.
+
+# 2024-02-01 - Research and Initial Timeline
+
+We created a rough timeline for the remainder of the semester to have an idea of how we would go about finishing this project. We spent some time researching what components we definitely would need for our PCB.
 
 # 2024-02-05 - Initial Brainstorming and Approval
 
-The project kicked off with an initial brainstorming session where the concept of a medical device capable of recording and transmitting audio was discussed and approved. Objectives were set, and preliminary designs were drafted. We set the requirements and each person claimed what they wanted to work on and planned out the required technology. I focused on the Software Side so i decided to develop natively on IOS using swift to build the phone application and to write the microphone and bluetooth programs. I decided to host all backend resources on AWS cloud.
+The project kicked off with an initial brainstorming session where the concept of a medical device capable of recording and transmitting audio was discussed and approved. Objectives were set, and preliminary designs were drafted. We set the requirements and each person claimed what they wanted to work on and planned out the required technology. I focused primarily on the sensing and power subsystems of the PCB. I also had to focus on getting the team enough data so our CNN would have enough training samples to help increase the accuracy and reliability of the CNN as shown through the Precision, Recall, and F1-score. 
 
-# 2024-02-10 - App update
+# 2024-02-07 - Project Proposal
 
-After doing research on application development, I found a framework called React-Native which I found would speed up intial development of the app design and bluetooth functionalities.
-[link](https://reactnative.dev/docs/environment-setup)
+We received feedback from Richard and our TA Surya related to what we would need in our block diagram and what our high-level requirements would be.
+Finally, we began working on our project proposal which is due on 02/08.
+![](XIAO_board.png)
+
+# 2024-02-12 - Beginning Design of PCB
+
+After doing more research on PCB development, 
 
 # 2024-02-20 - DEvelopment board setup with microphone and bluetooth communication
 
