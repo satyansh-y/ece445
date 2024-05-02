@@ -35,5 +35,5 @@ Updated the device's firmware to address compatibility issues with the new PCB f
 
 Set up storage for the audio files being transmitted to the app as well as a lambda function that processsed our audio files through the trained network to make predictions.
 These were the main resouces we used to set up the cloud to work with the application.
-[link]https://docs.aws.amazon.com/lambda/latest/dg/images-create.html
+[link](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html)
 [link](https://jaka-tertinek.medium.com/upload-files-from-react-native-app-to-aws-s3-3d3cb85e9d4)
