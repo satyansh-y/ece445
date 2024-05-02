@@ -18,7 +18,7 @@ The project kicked off with an initial brainstorming session where the concept o
 
 We received feedback from Richard and our TA Surya related to what we would need in our block diagram and what our high-level requirements would be.
 Finally, we began working on our project proposal which is due on 02/08.
-![](XIAO_board.png)
+<img width="377" alt="Screen Shot 2024-05-02 at 12 05 28 PM" src="https://github.com/satyansh-y/ece445/assets/92760614/d7e61bed-a97f-4262-b07d-75bc0079d82d">
 
 # 2024-02-12 - Beginning Design of PCB
 
